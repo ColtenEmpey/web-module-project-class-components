@@ -3,6 +3,8 @@ import { render } from 'react-dom'
 import App from './components/App'
 import './styles/reset.css'
 import './styles/styles.css'
+import TodoList from './components/TodoList'
+import Form from "./components/Form"
 
 render(
   <React.StrictMode>

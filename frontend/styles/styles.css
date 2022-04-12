@@ -27,7 +27,7 @@ body, input, button {
 }
 
 h1, h2, h3 {
-  color: #93005a;
+  color: #19be53;
 
 }
 
@@ -81,5 +81,12 @@ ul, form {
 }
 
 .todo:hover {
+  color: black;
   cursor: pointer;
+}
+.checkmark{
+  max-width: 20px;
+}
+.notDone{
+  display: none;
 }
